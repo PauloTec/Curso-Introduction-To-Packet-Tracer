@@ -17,3 +17,11 @@ Objetivos:
 	
 Equipamentos: 
 	PC, Laptop, Router Wifi, Modem, Núvem Internet e Servidor
+	
+#3- Explore Network Functionality Using PDUs
+	Objetivos:
+		Simular comunicação entre os equipamentos;
+		Ver as informações detalhadas de trafego por simples PDU (Protocol Data Unit);
+		Ver as informações detalhadas de trafego detalhadas PDU (Protocol Data Unit);
+		
+		Compreender o PING entre equipamentos;
