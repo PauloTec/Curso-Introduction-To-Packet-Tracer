@@ -19,9 +19,17 @@ Equipamentos:
 	PC, Laptop, Router Wifi, Modem, Núvem Internet e Servidor
 	
 #3- Explore Network Functionality Using PDUs
-	Objetivos:
-		Simular comunicação entre os equipamentos;
-		Ver as informações detalhadas de trafego por simples PDU (Protocol Data Unit);
-		Ver as informações detalhadas de trafego detalhadas PDU (Protocol Data Unit);
+
+Objetivos:
+	1- Simular comunicação entre os equipamentos;
+	2- Ver as informações detalhadas de trafego por simples PDU (Protocol Data Unit);
+	3- Ver as informações detalhadas de trafego detalhadas PDU (Protocol Data Unit);
 		
-		Compreender o PING entre equipamentos;
+	4- Compreender o PING entre equipamentos;
+	
+#4- Packet Tracer Physical View
+
+Objetivos:
+	Aprender a usar o modo físico do Packet;
+	Construir cidade, escritório com equipamentos de rede;
+	Diferenciar os modos de visualização lógico e físico.
